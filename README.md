@@ -76,7 +76,6 @@ Me chamo Matheus Bueno, tenho 17 anos e sou natural de São Paulo. Estou Termina
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;"
-      width="419"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bueninkt&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
