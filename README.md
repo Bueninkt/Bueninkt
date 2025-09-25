@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Matheus Bueno
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Matheus Bueno, tenho 17 anos e sou natural de São Paulo. Estou Terminando o ensino médio no Sesi, com o curso técnico em Jandira. Atualmente, estou cursando Desenvolvimento de Sistemas no Senai. Sou apaixonado por tecnologia e pretendo levar isso para a vida toda!
 <p align="left">
