@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Matheus Bueno, tenho 17 anos e sou natural de São Paulo. Estou Terminando o ensino médio no Sesi, com o curso técnico em Jandira. Atualmente, estou cursando Desenvolvimento de Sistemas no Senai. Sou apaixonado por tecnologia e pretendo levar isso para a vida toda!
+Me chamo Matheus Bueno, tenho 17 anos sou de Itapevi São Paulo. Estou Terminando o ensino médio no Sesi, com o curso técnico em Jandira. Atualmente, estou cursando Desenvolvimento de Sistemas no Senai. Sou apaixonado por tecnologia e pretendo levar isso para a vida toda!
 <p align="left">
   
   <a href="https://instagram.com/og.teu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"     target="_blank"></a>
